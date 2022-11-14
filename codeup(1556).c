@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 #pragma warning(disable : 4996)
 int n;
@@ -15,4 +14,3 @@ int main()
 	scanf("%d", &n);
 	printf("%lld\n", f(n));
 }
-*/
